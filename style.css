@@ -1,0 +1,7 @@
+body {
+    background-image: url("img/como-ajudar-cao-de-rua-02.jpg"); /* caminho da imagem */
+    background-size: cover;       /* faz a imagem cobrir toda a tela */
+    background-position: center;  /* centraliza a imagem */
+    background-repeat: no-repeat; /* evita repetição da imagem */
+    background-attachment: fixed; /* deixa o fundo fixo ao rolar a página */
+}
