@@ -1,3 +1,37 @@
+/* ===== TELA DE INTRODUÇÃO ===== */
+#intro-screen {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  backdrop-filter: blur(10px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #ffcc00;
+  z-index: 2000;
+  opacity: 1;
+  transition: opacity 1.2s ease, visibility 1.2s ease;
+}
+
+#intro-screen h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  text-shadow: 0 0 10px rgba(255, 204, 0, 0.8);
+}
+
+#intro-screen p {
+  font-size: 1.2rem;
+  margin-top: 15px;
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+#intro-screen.hidden {
+  opacity: 0;
+  visibility: hidden;
+}
 /* ===== Fundo da página ===== */
 body {
   background-image: url("img/como-ajudar-cao-de-rua-02.jpg");
@@ -111,5 +145,33 @@ h1 {
   color: hsl(0, 0%, 99%);
   margin-bottom: 15px;
   text-shadow: 1px
+
 }
-  
+
+/* ===== MENSAGEM DE BOAS-VINDAS ===== */
+.welcome-message {
+  position: fixed;
+  top: 90px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(255, 204, 0, 0.95);
+  color: #000;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.8s ease, transform 0.8s ease;
+  z-index: 1500;
+}
+
+.welcome-message.show {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
+
+body.modo-escuro .welcome-message {
+  background: rgba(30, 30, 30, 0.9);
+  color: #ffcc00;
+}
