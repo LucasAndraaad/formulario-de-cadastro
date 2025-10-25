@@ -5,3 +5,32 @@
 <img width="1858" height="903" alt="Opera Instantâneo_2025-10-22_190745_127 0 0 1" src="https://github.com/user-attachments/assets/f7b32231-2e78-4663-80b7-de79618c9c05" />
 <img width="1862" height="904" alt="Opera Instantâneo_2025-10-22_190759_127 0 0 1" src="https://github.com/user-attachments/assets/d8ee6902-f76e-418b-a5e0-77ab64501868" />
 
+# Friend Dog ONG 🐾
+
+Projeto desenvolvido como parte da entrega final.
+
+## 🚀 Tecnologias
+- HTML5
+- CSS3 (Design System, Responsivo, Modo Escuro)
+- JavaScript (Interatividade e Acessibilidade)
+- Git/GitHub
+
+## ♿ Acessibilidade
+- Navegação por teclado
+- Leitores de tela
+- Contraste 4.5:1
+- Modo escuro e alto contraste
+
+## 🔧 Estrutura GitFlow
+- Branch principal: `main`
+- Desenvolvimento: `develop`
+- Features: `feature/nome`
+
+## 📦 Deploy
+Hospedado no GitHub Pages:
+👉 [https://seuusuario.github.io/friend-dog-ong](https://seuusuario.github.io/friend-dog-ong)
+
+## 📄 Licença
+Este projeto é de uso educacional.
+
+
