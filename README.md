@@ -18,8 +18,7 @@ Projeto desenvolvido como parte da entrega final.
 ## ♿ Acessibilidade
 - Navegação por teclado
 - Leitores de tela
-- Contraste 4.5:1
-- Modo escuro e alto contraste
+- alto contraste
 
 ## 🔧 Estrutura GitFlow
 - Branch principal: `main`
@@ -32,6 +31,7 @@ Hospedado no GitHub Pages:
 
 ## 📄 Licença
 Este projeto é de uso educacional.
+
 
 
 
