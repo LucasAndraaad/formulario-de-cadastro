@@ -28,9 +28,10 @@ Projeto desenvolvido como parte da entrega final.
 
 ## 📦 Deploy
 Hospedado no GitHub Pages:
-👉 [https://seuusuario.github.io/friend-dog-ong](https://seuusuario.github.io/friend-dog-ong)
+👉 [https://github.com/LucasAndraaad/formulario-de-cadastro.git](https://github.com/LucasAndraaad/formulario-de-cadastro.git)
 
 ## 📄 Licença
 Este projeto é de uso educacional.
+
 
 
