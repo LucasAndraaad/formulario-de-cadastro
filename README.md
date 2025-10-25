@@ -11,7 +11,7 @@ Projeto desenvolvido como parte da entrega final.
 
 ## 🚀 Tecnologias
 - HTML5
-- CSS3 (Design System, Responsivo, Modo Escuro)
+- CSS3 (Design System)
 - JavaScript (Interatividade e Acessibilidade)
 - Git/GitHub
 
@@ -32,6 +32,7 @@ Hospedado no GitHub Pages:
 
 ## 📄 Licença
 Este projeto é de uso educacional.
+
 
 
 
