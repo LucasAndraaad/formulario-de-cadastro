@@ -27,10 +27,11 @@ Projeto desenvolvido como parte da entrega final.
 
 ## 📦 Deploy
 Hospedado no GitHub Pages:
-👉 [https://github.com/LucasAndraaad/formulario-de-cadastro.git](https://github.com/LucasAndraaad/formulario-de-cadastro.git)
+👉 [https://lucasandraaad.github.io/formulario-de-cadastro/](https://lucasandraaad.github.io/formulario-de-cadastro/)
 
 ## 📄 Licença
 Este projeto é de uso educacional.
+
 
 
 
